@@ -1,1 +1,28 @@
-
+<html>
+  <head>
+<link rel="stylesheet" href="style.css">
+    <link rel = "https://store-images.s-microsoft.com/image/apps.395.5f17af68-e032-4a38-aae0-1c309d212f5c.8b1a9572-9bde-479d-8f85-018186266a30.547cd1f2-75a6-4fc8-b92e-c06f016ad77a">
+    <title> Code.Org Project Website </title>
+    </link>
+     </head>
+    <body>
+      <ul>
+        <li><a href = "index.html"> Brenden's Website 2024 </a> </li> 
+        <li><a href = <"project.html"> Quizzes/Games </a></li>
+      </ul>
+      <center>
+      <h1> Brenden's Code.org Random Generators </h1>
+      <p> 2024 Projects </p>
+    <img src = "https://store-images.s-microsoft.com/image/apps.395.5f17af68-e032-4a38-aae0-1c309d212f5c.8b1a9572-9bde-479d-8f85-018186266a30.547cd1f2-75a6-4fc8-b92e-c06f016ad77a">
+  
+        </img>
+      <br>
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/U7LgbPOpmA8l3LmeuvoPTN_agb8Qg_vmQACNc0BhfOo/embed"></iframe>
+<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/lHweU-VD23gVf0gzgu78KBAO7LRdTlqD7uAG6f50I7k/embed"></iframe>
+<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/aDNafmlO0ez7RxUohA6ThWdcW1nxJ8YLCjzmEM2WQzE/embed"></iframe>
+      </center>
+  </body>
+      
+      
+</html>
+  
