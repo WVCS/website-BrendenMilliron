@@ -30,6 +30,8 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  letter-spacing: 3px;
+  text-align: center;
 }
   
   li {
